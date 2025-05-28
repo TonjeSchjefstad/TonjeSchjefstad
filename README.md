@@ -17,4 +17,7 @@ In my first year of studies we have learned:
 - Project Methodology
 
 ## Contact me:
-Linked In: https://www.linkedin.com/in/tonjeschjefstad/
+LinkedIn: https://www.linkedin.com/in/tonjeschjefstad/
+GitHub: https://github.com/TonjeSchjefstad/
+Email: Tonje_Schjefen@hotmail.com
+
