@@ -1,7 +1,7 @@
 ## Hi there, I'm Tonje 👋
 - I'm a first year Front End Developer Student at Noroff
 - Based in Steinkjer, Norway
-- 34 years old and loving the journey of career transition
+- 33 years old and loving the journey of career transition
 - Currently working part time at a yarn store, and I'm also a passionate knitter
 - Living with my lovely partner, and I'm a cat mom to two beautiful sibirean cats
 - I'm a Formula 1 enthusiast, and are loving every race weekend!
