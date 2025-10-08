@@ -1,5 +1,5 @@
 ## Hi there, I'm Tonje 👋
-- I'm a first year Front End Developer Student at Noroff
+- I'm a second year Front End Developer Student at Noroff
 - Based in Steinkjer, Norway
 - 33 years old and loving the journey of career transition
 - Currently working part time at a yarn store, and I'm also a passionate knitter
